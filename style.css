@@ -1,8 +1,22 @@
-div{
-  border-style: dashed;
+* {
   box-sizing: border-box;
-  width: 1120px;
-  padding: 88 80 137 80;
-  background-size: cover;
-  
+}
+
+div {
+  border-style: dashed;   /*tirar depois*/
+  margin-top: 88px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 137px;  
+  width: 800px;
+}
+
+img{
+  width: 800px;
+}
+
+#heart {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
 }
