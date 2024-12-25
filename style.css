@@ -56,7 +56,6 @@ ul{
 h1, h2, h3{
   color: #1B1B1B
 }
-
 .good{
   color: #333333; 
   font-weight: bold;
@@ -70,9 +69,9 @@ h1, h2, h3{
   color: #0C51A7;
 
 }
-
 p, .lista{
   color: #333333;
+  font-weight: 400;
 }
 
 #itandcentralized{
