@@ -19,3 +19,6 @@ A simple and responsive web page showcasing a tourist destination, created using
 git clone https://github.com/olucas-fg/touristic-place.git
 cd touristic-place
 ```
+
+Then, open the `index.html` file in your preferred browser.
+
